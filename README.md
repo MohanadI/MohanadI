@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohanadI
-- 👀 I’m interested in ReactJs, JS, anything ends with `s` :D
+- 👀 I’m interested in ReactJs, JS, anything ends with `js` :D
 - 🌱 I’m currently learning AI, Paython
 - 📫 How to reach me [ mohanad.inairat@gmail.com ]
 
